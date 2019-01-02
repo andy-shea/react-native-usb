@@ -1,0 +1,23 @@
+{
+  "name": "react-native-usb",
+  "version": "1.0.0",
+  "description": "A React Native module for USB communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "usb"
+  ],
+  "author": "Andy Shea",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "events": "^3.0.0"
+  }
+}
